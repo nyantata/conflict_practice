@@ -2,4 +2,3 @@
 
 apple
 orange
-water melon
